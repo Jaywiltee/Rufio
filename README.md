@@ -1,1 +1,1 @@
-# Rufio
+# Rufio Kodi Build Wizard
